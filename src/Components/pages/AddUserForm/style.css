@@ -1,0 +1,21 @@
+body {
+  background-image: radial-gradient(
+    circle farthest-corner at 10% 20%,
+    rgba(95, 117, 227, 1) 0%,
+    rgba(188, 167, 205, 1) 90%
+  );
+  height: 100vh;
+  background-repeat: no-repeat;
+}
+form {
+  display: flex;
+  flex-direction: column;
+  width: 50vw;
+  margin: auto;
+  padding: 2rem;
+  box-shadow: 0px 1px 8px 5px rgba(0, 0, 0, 0.226);
+  border-radius: 4px;
+}
+input {
+  width: 85%;
+}

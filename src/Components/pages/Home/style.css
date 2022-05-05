@@ -1,0 +1,12 @@
+body {
+  color: black;
+}
+
+th {
+  background-color: rgb(3, 4, 44);
+  color: white;
+}
+tr {
+  font-weight: 600;
+  font-size: 18px;
+}
